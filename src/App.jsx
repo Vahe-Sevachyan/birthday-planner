@@ -8,7 +8,7 @@ const App = () => {
         const { name, age, image } = person;
         return <PersonBio img={image} name={name} age={age} />;
       })}
-      <button>Clear All</button>
+      <button className="btn">Clear All</button>
     </div>
   );
 };
