@@ -1,4 +1,4 @@
-export const people = [
+export const peopleList = [
   {
     id: 1,
     name: "Bertie Yates",
